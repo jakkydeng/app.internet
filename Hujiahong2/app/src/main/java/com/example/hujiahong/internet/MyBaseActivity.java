@@ -1,4 +1,4 @@
-package com.example.hujiahong.hujiahong;
+package com.example.hujiahong.internet;
 
 import android.os.Bundle;
 

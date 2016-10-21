@@ -1,4 +1,4 @@
-package com.example.hujiahong.hujiahong;
+package com.example.hujiahong.internet;
 
 import android.content.Intent;
 import android.os.Bundle;
